@@ -93,7 +93,7 @@
     "react-native-webview": "11.26.1",
     "react-syntax-highlighter": "15.5.0",
     "readable-stream": "3.6.0",
-    "semver": "7.3.8",
+    "semver": "7.5.2",
     "serialize-error": "11.0.0",
     "shallow-equals": "1.0.0",
     "tinycolor2": "1.5.2",
