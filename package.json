@@ -91,7 +91,7 @@
     "react-native-walkthrough-tooltip": "1.5.0",
     "react-native-webrtc": "106.0.4",
     "react-native-webview": "11.26.1",
-    "react-syntax-highlighter": "15.5.0",
+    "react-syntax-highlighter": "16.0.0",
     "readable-stream": "3.6.0",
     "semver": "7.3.8",
     "serialize-error": "11.0.0",
